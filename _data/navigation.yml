@@ -6,8 +6,8 @@ main:
     url: /tags/
 
 docs:
-  - title: "대목차" #위치 중요
-    children: #탭
+  - title: "대목차"
+    children:
       - title: "Category"
         url: /categories/
       - title: "Tag"
