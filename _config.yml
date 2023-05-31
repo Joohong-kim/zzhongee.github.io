@@ -131,7 +131,7 @@ footer:
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/zzhongee"
 
 # Reading Files
 include:
