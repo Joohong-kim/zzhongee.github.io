@@ -266,3 +266,4 @@ defaults:
 show_date: true
 
 date_format: "%Y-%m-%d"
+# icon: https://fontawesome.com/v5/search?o=r&m=free&s=solid
